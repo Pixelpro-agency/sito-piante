@@ -39,7 +39,7 @@ var swiper = new Swiper(".home-slider", {
     loop:true,
 });
 
-let countDate = new Date('june 1, 2021 00:00:00').getTime();
+let countDate = new Date('november 1, 2023 23:59:59').getTime();
 
 function countDown(){
 
